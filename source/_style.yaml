@@ -1,0 +1,11 @@
+$style:
+- /_style
+- verbatim: |-
+    \renewcommand\jeolminstitution
+      {СУНЦ МГУ им. М.В. Ломоносова~--- школа им. А.Н. Колмогорова}
+    \renewcommand\jeolmdaterange
+      {2014-2015}
+- verbatim: |-
+    \renewcommand\jeolmgroup
+      {Олимпиадная математика}
+  condition: {not: no-jeolmgroup}
