@@ -1,0 +1,6 @@
+$delegate:
+- algebra-polynomial-integer
+- algebra-polynomial-integer-more
+- combinatorics-graph-connectivity
+- geometry-plane-motion
+- combinatorics-graph-tree
