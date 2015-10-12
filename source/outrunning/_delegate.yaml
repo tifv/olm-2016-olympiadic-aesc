@@ -1,6 +1,8 @@
-$delegate:
+$delegate[-miscellany]:
 - algebra-polynomial-integer
 - algebra-polynomial-integer-more
 - combinatorics-graph-connectivity
 - geometry-plane-motion
 - combinatorics-graph-tree
+- mixture-1
+- algebra-polynomial-roots
