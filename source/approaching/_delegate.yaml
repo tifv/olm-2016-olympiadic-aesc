@@ -1,0 +1,6 @@
+$delegate[-miscellany]:
+- combinatorics-constructive
+- combinatorics-extreme-principle
+- geometry-mixture-1
+- combinatorics-induction
+- geometry-concyclic-points
