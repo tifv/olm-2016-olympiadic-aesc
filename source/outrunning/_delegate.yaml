@@ -6,3 +6,6 @@ $delegate[-miscellany]:
 - combinatorics-graph-tree
 - mixture-1
 - algebra-polynomial-roots
+- algebra-polynomial-odd-degree
+- geometry-plane-motion-more
+- geometry-chasles-theorem-2d
