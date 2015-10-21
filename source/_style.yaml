@@ -4,7 +4,7 @@ $style:
     \renewcommand\jeolminstitution
       {СУНЦ МГУ им. М.В. Ломоносова~--- школа им. А.Н. Колмогорова}
     \renewcommand\jeolmdaterange
-      {2014-2015}
+      {2015-2016}
 - verbatim: |-
     \renewcommand\jeolmgroup
       {Олимпиадная математика}
