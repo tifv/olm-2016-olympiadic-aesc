@@ -1,7 +1,11 @@
 $matter[miscellany]:
 
+- - algebra-number-theory-euler-theorem
+- - algebra-inequality-mean
+
 - - combinatorics-constructive
 - - combinatorics-induction
+- - combinatorics-two-sided-estimate
 
 - - geometry-mixture-1
 - - geometry-concyclic-points
