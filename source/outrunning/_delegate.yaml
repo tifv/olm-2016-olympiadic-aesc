@@ -1,12 +1,26 @@
 $delegate[-miscellany]:
-- algebra-polynomial-integer
-- algebra-polynomial-integer-more
-- combinatorics-graph-connectivity
-- geometry-plane-motion
-- combinatorics-graph-tree
-- mixture-1
-- algebra-polynomial-roots
-- algebra-polynomial-odd-degree
-- geometry-plane-motion-more
-- geometry-chasles-theorem-2d
-- combinatorics-information
+
+- algebra-polynomial-integer            # 2015-09-16
+- algebra-polynomial-integer-more       # 2015-09-18
+- combinatorics-graph-connectivity      # 2015-09-23
+- geometry-plane-motion                 # 2015-09-25
+- combinatorics-graph-tree              # 2015-09-30
+
+- mixture-1                             # 2015-10-02
+- algebra-polynomial-roots              # 2015-10-07
+- algebra-polynomial-odd-degree         # 2015-10-14
+- geometry-plane-motion-more            # 2015-10-16
+- geometry-chasles-theorem-2d           # 2015-10-21
+- combinatorics-information             # 2015-10-28
+
+- combinatorics-invariant               # 2015-11-11
+- combinatorics-semi-invariant          # 2015-11-11
+- algebra-gcd-and-lcm                   # 2015-11-18
+- algebra-irrational                    # 2015-11-25
+
+- geometry-mixture                      # 2015-12-02
+- algebra-inequality                    # 2015-12-04
+- algebra-inequality-more               # 2015-12-09
+- mixture-2                             # 2015-12-11
+- combinatorics-games                   # 2015-12-16
+

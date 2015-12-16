@@ -1,0 +1,65 @@
+% $date: 2015-11-25 # среда
+
+\section*{Теорема Эйлера}
+
+% $authors:
+% - Виктор Трещёв
+
+\begingroup
+    \ifx\mathup\undefined
+        \def\eulerphi{\upphi}
+    \else
+        \def\eulerphi{\mathup{\phi}}
+    \fi
+    \providecommand\divides{\mathrel{\vert}}
+
+\begin{problems}
+
+\item
+Решите уравнения:
+\\
+\subproblem $\eulerphi(x) = 2$;
+\qquad
+\subproblem $\eulerphi(x) = 8$;
+\qquad
+\subproblem $\eulerphi(x) = 12$;
+\qquad
+\subproblem $\eulerphi(x) = 14$.
+
+\item
+Решите уравнения:
+\\
+\subproblem $\eulerphi(x) = x / 2$;
+\qquad
+\subproblem $\eulerphi(x) = x / 3$;
+\qquad
+\subproblem $\eulerphi(x) = x / 4$.
+
+\item
+Известно, что $(m, n) > 1$.
+Что больше: $\eulerphi(m \cdot n)$ или $\eulerphi(m) \cdot \eulerphi(n)$?
+
+\item
+Докажите \emph{тождество Гаусса:}
+\[
+    \sum_{d \divides n}
+        \eulerphi(d)
+=
+    n
+\, . \]
+
+\item
+Существует~ли степень тройки, заканчивающаяся на~$0001$?
+
+\item
+Докажите, что для любого нечетного числа~$m$ существует такое натуральное
+$n$, что $(2^n - 1) \kratno m$.
+
+\item
+Найдите все такие целые числа~$a$, для которых число $a^{10} + 1$ делится
+на~$10$.
+
+\end{problems}
+
+\endgroup % \def\eulerphi \def\divides
+
