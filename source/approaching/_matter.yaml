@@ -1,12 +1,5 @@
 $matter[miscellany]:
 
-- - algebra-number-theory-euler-theorem-1
-- - algebra-inequality-mean
-
-- - combinatorics-constructive
-- - combinatorics-induction
-- - combinatorics-two-sided-estimate
-
-- - geometry-mixture-1
-- - geometry-concyclic-points
+- - combinatorics-correspondence
+- - geometry-OH-mixture
 

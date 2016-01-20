@@ -1,16 +1,5 @@
 $matter[miscellany]:
 
-- - algebra-polynomial-integer[full-version]
-- - algebra-polynomial-roots
-- - algebra-polynomial-odd-degree
-
-- - combinatorics-graph-connectivity
-- - combinatorics-graph-tree
-- - combinatorics-information
-
-- - geometry-plane-motion
-- - geometry-plane-motion-more
-- - geometry-chasles-theorem-2d
-
-- - mixture-1
+- - geometry-stereometry
+- - geometry-stereometry-combinatorial
 
