@@ -26,4 +26,6 @@ $delegate[-miscellany]:
 
 - geometry-stereometry                  # 2016-01-13
 - geometry-stereometry-combinatorial    # 2016-01-15
+- combinatorics-graph-hidden            # 2016-01-22
+- combinatorics-two-sided-estimate      # 2016-01-27
 
