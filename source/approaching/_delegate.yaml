@@ -1,26 +1,28 @@
 $delegate[-miscellany]:
 
-- combinatorics-constructive # 2015-09-23
-- combinatorics-extreme-principle # 2015-09-30
+- combinatorics-constructive                                # 2015-09-23
+- combinatorics-extreme-principle                           # 2015-09-30
 
-- geometry-mixture-1 # 2015-10-02
-- combinatorics-induction # 2015-10-07
-- geometry-concyclic-points # 2015-10-09
-- algebra-number-theory-euler-theorem-1 # 2015-10-16
-- combinatorics-two-sided-estimate # 2015-10-21
-- algebra-inequality-mean # 2015-10-23
+- geometry-mixture-1                                        # 2015-10-02
+- combinatorics-induction                                   # 2015-10-07
+- geometry-concyclic-points                                 # 2015-10-09
+- algebra-number-theory-euler-theorem-1                     # 2015-10-16
+- combinatorics-two-sided-estimate-1                        # 2015-10-21
+- algebra-inequality-mean                                   # 2015-10-23
 
-- combinatorics-two-sided-estimate-more # 2015-11-11
-- algebra-number-theory-diophantine-equations # 2015-11-13
-- algebra-number-theory-euclid-algorithm # 2015-11-18
-- algebra-number-theory-remainders # 2015-11-18
-- algebra-number-theory-fermat-theorem # 2015-11-20
-- algebra-number-theory-euler-theorem-2 # 2015-11-25
+- combinatorics-two-sided-estimate-1-more                   # 2015-11-11
+- algebra-number-theory-diophantine-equations               # 2015-11-13
+- algebra-number-theory-euclid-algorithm                    # 2015-11-18
+- algebra-number-theory-remainders                          # 2015-11-18
+- algebra-number-theory-fermat-theorem                      # 2015-11-20
+- algebra-number-theory-euler-theorem-2                     # 2015-11-25
 
 # nothing in 2015-12
 
-- combinatorics-correspondence # 2016-01-13
-- geometry-OH-mixture # 2016-01-15
-- combinatorics-correspondence-more # 2016-01-20
-- geometry-plane-motion # 2016-01-27
+- combinatorics-correspondence                              # 2016-01-13
+- geometry-OH-mixture                                       # 2016-01-15
+- combinatorics-correspondence-more                         # 2016-01-20
+- geometry-mixture-2                                        # 2016-01-22
+- geometry-plane-motion                                     # 2016-01-27
+- combinatorics-two-sided-estimate-2                        # 2016-01-29
 
