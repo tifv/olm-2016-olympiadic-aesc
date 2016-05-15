@@ -4,10 +4,22 @@ miscellany:
   $style:
   - ..[no-jeolmgroup]
   $matter:
+
+  - error:
+      "'source-link' and 'print' options are incompatible"
+    condition: [source-link, print]
+
+  - preamble package: hyperref
+    condition: -print
+  - preamble verbatim: \hypersetup{colorlinks}
+    provide: hypersetup:colorlinks
+    condition: [source-link, -print]
+
   - verbatim: |-
       \renewcommand\jeolmgroup
         {Олимпиадная математика\;::\;Догоняющие}
   - /approaching/[miscellany]
+
   - verbatim: |-
       \renewcommand\jeolmgroup
         {Олимпиадная математика\;::\;Убегающие}

@@ -1,10 +1,11 @@
 import datetime
 
 from jeolm.driver.regular import RegularDriver
+from jeolm.driver.source_link import SourceLinkDriver
 
 GROUP_PREFIXES = ('approaching-', 'outrunning-')
 
-class Driver(RegularDriver):
+class Driver(SourceLinkDriver):
 
     def _select_outname(self, target, metarecord, date=None):
         outname = super()._select_outname_stem(target, metarecord)
