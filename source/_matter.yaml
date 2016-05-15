@@ -1,0 +1,15 @@
+miscellany:
+  $date: 2016
+  $build$outname: 2016-aesc-olympiadic-miscellany
+  $style:
+  - ..[no-jeolmgroup]
+  $matter:
+  - verbatim: |-
+      \renewcommand\jeolmgroup
+        {Олимпиадная математика\;::\;Догоняющие}
+  - /approaching/[miscellany]
+  - verbatim: |-
+      \renewcommand\jeolmgroup
+        {Олимпиадная математика\;::\;Убегающие}
+  - /outrunning/[miscellany]
+
