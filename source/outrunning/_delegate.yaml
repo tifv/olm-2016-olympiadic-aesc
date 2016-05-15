@@ -1,3 +1,5 @@
+# vim: set shiftwidth=60 :
+
 $delegate[-miscellany]:
 
 - algebra-polynomial-integer                                # 2015-09-16
@@ -28,4 +30,11 @@ $delegate[-miscellany]:
 - geometry-stereometry-combinatorial                        # 2016-01-15
 - combinatorics-graph-hidden                                # 2016-01-22
 - combinatorics-two-sided-estimate                          # 2016-01-27
+
+- geometry-mixture-2                                        # 2016-02-03
+- sofa-challenge                                            # 2016-02-17
+- mixture-constructive                                      # 2016-02-24
+
+- combinatorics-geometrical                                 # 2016-03-02
+- combinatorics-infinity                                    # 2016-03-16
 

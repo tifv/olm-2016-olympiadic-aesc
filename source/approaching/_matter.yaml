@@ -1,7 +1,37 @@
 $matter[miscellany]:
 
+- - combinatorics-constructive
+- - combinatorics-extreme-principle
+
+- - geometry-mixture-1
+- - combinatorics-induction
+- - geometry-concyclic-points
+- - algebra-number-theory-euler-theorem-1
+- - combinatorics-two-sided-estimate-1
+- - combinatorics-two-sided-estimate-1-more
+- - algebra-inequality-mean
+
+- - algebra-number-theory-diophantine-equations
+- - algebra-number-theory-euclid-algorithm
+- - algebra-number-theory-remainders
+- - algebra-number-theory-fermat-theorem
+- - algebra-number-theory-euler-theorem-2
+
 - - combinatorics-correspondence
 - - combinatorics-correspondence-more
 - - geometry-OH-mixture
+- - geometry-mixture-2
 - - geometry-plane-motion
+- - combinatorics-two-sided-estimate-2
+
+- - mixture-region
+- - combinatorics-geometrical-mmo
+- - combinatorics-geometrical-mmo-more
+
+- - mixture-1
+- - geometry-mixture-3
+- - geometry-mixture-3-more
+
+- - combinatorics-graph-tree
+- - algebra-number-theory-prime-4kp1
 

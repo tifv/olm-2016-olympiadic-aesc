@@ -1,8 +1,38 @@
 $matter[miscellany]:
 
+- - algebra-polynomial-integer[full-version]
+  # algebra-polynomial-integer-more
+- - combinatorics-graph-connectivity
+- - geometry-plane-motion
+- - geometry-plane-motion-more
+- - combinatorics-graph-tree
+
+- - mixture-1
+- - algebra-polynomial-roots
+- - algebra-polynomial-odd-degree
+- - geometry-chasles-theorem-2d
+- - combinatorics-information
+
+- - combinatorics-invariant
+- - combinatorics-semi-invariant
+- - algebra-gcd-and-lcm
+- - algebra-irrational
+
+- - geometry-mixture-1
+- - algebra-inequality
+- - algebra-inequality-more
+- - mixture-2
+- - combinatorics-games
+
 - - geometry-stereometry
 - - geometry-stereometry-combinatorial
-
 - - combinatorics-graph-hidden
 - - combinatorics-two-sided-estimate
+
+- - geometry-mixture-2
+- - sofa-challenge
+- - mixture-constructive
+
+- - combinatorics-geometrical
+- - combinatorics-infinity
 
